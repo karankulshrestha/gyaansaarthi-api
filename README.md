@@ -1,7 +1,7 @@
 
 # Gyaan Saarthi Backend API 🥸
 
-These are the apis written in fast framework of Python and I deployed these api on aws. These api are integrated in Flutter and handle the backend processing of the queries.
+These are the apis written in fast framework of Python and I deployed these api on aws. These api are integrated in Flutter and handle the backend processing of the queries. These api process more than 50% of the work but rest process done inside the app itself.
 
 
 
