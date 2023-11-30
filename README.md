@@ -14,14 +14,14 @@ These are the apis written in fast framework of Python and I deployed these api 
 
 #### Shot 1
 
-![App Screenshot](https://github.com/rajkulx/gyaansaarthi/assets/42493387/d08d8692-6a51-4f76-ac63-c75215f54edc)
+![App Screenshot](https://github.com/rajkulx/gyaansaarthi-api/assets/42493387/66476e51-7a5b-4ad7-9f51-c9e4b9d55c27)
 
 #### Shot 2
 
-![App Screenshot](https://github.com/rajkulx/gyaansaarthi/assets/42493387/602697da-5501-4a44-adbe-65300c711f99)
+![App Screenshot](https://github.com/rajkulx/gyaansaarthi-api/assets/42493387/a285f189-1806-453e-acf7-8870cfddb397)
 
 
 #### Shot 3
 
-![App Screenshot](https://github.com/rajkulx/gyaansaarthi/assets/42493387/e8758828-9959-4d99-9f82-50743fac60b6)
+![App Screenshot](https://github.com/rajkulx/gyaansaarthi-api/assets/42493387/349ad4e3-cd21-47ae-9635-4dbe63c83606)
 
